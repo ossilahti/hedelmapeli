@@ -1,0 +1,18 @@
+My first-ever project in the programming world. This game was part of the execution of course "Programming 1" in the University of Jyväskylä. 
+The idea of the game is to collect the oranges and to avoid the bombs. The point-counter will add points for each fruit collected, but when 
+a bomb hits the basket, lives will be reduced by one. The game itself is really simple, but as I said, it's the first one. 
+
+Some things I learned during the process:
+
+- Creating functions, procedures, methods
+- How to make collide two different objects
+- Documenting 
+- I have to think first before acting, it's an easy way to avoid mistakes and a possible repetition
+- Causal relationships of different things
+- Debugging (a little)
+
+I think I spent approximately fifty to sixty hours doing this project.
+
+Platform: Microsoft Visual Studio 2019, MonoGame Developer (FysiikkaPeli Windows)
+Language: C#
+Libraries: Jypeli, Physics2d, DirectX11
